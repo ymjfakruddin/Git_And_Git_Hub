@@ -1,2 +1,10 @@
 Hi Jeelan 
 Hw r  u?
+
+class Hello
+{
+psvm
+{
+sout("Hello 'hi'");
+}
+}
